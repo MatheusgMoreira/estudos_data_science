@@ -1,0 +1,1 @@
+SELECT * from tabelaprodutos where preco_de_compra BETWEEN 200 and 600  ORDER BY nome_do_produto;
